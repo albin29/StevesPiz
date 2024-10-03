@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-size: cover; /* Ensures the image covers the whole area */
+    background-position:top; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-image: url('https://api.deepai.org/job-view-file/6c2dd626-6fde-4410-a393-95a33c976802/outputs/output.jpg?art-image=true');
+}
+
+
+h1 {
+    font-size: 3rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+.container h2 , h3 ,h5 {
+    color: white;
+}

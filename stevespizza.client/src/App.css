@@ -1,0 +1,55 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+
+}
+
+
+/* index.css or App.css */
+
+
+/* Center the total price text */
+.text-right {
+    text-align: right;
+}
+
+/* Add some padding around the cart */
+.container {
+   padding: 20px;
+}
+
+
+/* Style the empty cart message */
+.text-center h5 {
+    color: #6c757d; /* Gray color for the empty cart message */
+}
+
+/* Style for the cart card */
+.card {
+    border: 1px solid #007bff; /* Blue border */
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    font-size: 1.25rem;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem; /* Space between cards */
+}
+/* Custom styles for the remove button */
+.btn-danger {
+    background-color: #dc3545; /* Bootstrap danger color */
+    border-color: #dc3545; /* Remove border */
+}
+
+    .btn-danger:hover {
+        background-color: #c82333; /* Darker red on hover */
+    }
+
+
